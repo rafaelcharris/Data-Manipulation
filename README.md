@@ -1,3 +1,3 @@
 # Data-Manipulation
 
-Example of a data manipulation excercise
+Example of a data manipulation exercise
